@@ -1,13 +1,13 @@
 # QR Scanner
 
-A Go application that decodes QR codes from image files and opens the URL in the default web browser.
+A Go application that decodes QR codes from image files and opens the URL in the default web browser using this library: github.com/tuotoo/qrcode
 
 ## Setup
 
 1. **Clone the Repository**
 
    ```sh
-   git clone https://github/tabintel/qrscanner.git
+   git clone https://github.com/Tabintel/qrscanner.git
    cd qrscanner
    ```
 
