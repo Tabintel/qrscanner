@@ -1,4 +1,4 @@
-package main
+/* package main
 
 import (
     "fmt"
@@ -49,3 +49,5 @@ func main() {
 
     fmt.Println("URL opened in default browser successfully!")
 }
+
+*/
