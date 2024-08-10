@@ -1,3 +1,5 @@
+/*
+
 package main
 
 import (
@@ -111,3 +113,5 @@ func main() {
         fmt.Println("Error starting server:", err)
     }
 }
+
+*/
