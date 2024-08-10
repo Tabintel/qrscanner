@@ -7,7 +7,7 @@ document.querySelector("form").addEventListener("submit", async function(event) 
     formData.append("image", fileField.files[0]);
 
     try {
-        const response = await fetch("http://localhost:8080/upload", {
+        const response = await fetch("https://decode-ohkt.onrender.com/upload", {
             method: "POST",
             body: formData,
         });
